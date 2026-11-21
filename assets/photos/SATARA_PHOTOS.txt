@@ -1,0 +1,1 @@
+Add your favourite Satara first-trip photo as satara-cover.jpg and optional satara-01.jpg, satara-02.jpg, satara-03.jpg. Add your main gallery photos as photo-01.jpg, photo-02.jpg, etc. We'll wire all selected photos into the gallery after you upload them.
